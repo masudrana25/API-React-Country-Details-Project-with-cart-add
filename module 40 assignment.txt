@@ -1,0 +1,8 @@
+1. material ui must use korty hby 
+
+2. json placeholder thekey post ta niye dekhaty hby site a
+	--every post er nichy akta button thaby,"see more" nmy, click korly route kry new page a niye jby and sei post er details dekhaby\
+
+3. post details er nichy oi post er comment gula dekhaty hby api thekey niye
+
+4. bonus--- comment er passey comment karir pic dity hby, j kono vby and j kono jaiga theky aney deya jby
